@@ -66,7 +66,7 @@
     "id": 21,
     "name": "Chocolate Hills, Bohol",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/The%20Chocolate%20Hills.PNG",
-    "price": 1246km,
+    "price": 1246,
     "priceCurrency": "km",
     "lat": 9.8297,
     "lng": 124.1397
