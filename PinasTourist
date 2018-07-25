@@ -30,8 +30,8 @@
     "id": 205,
     "name": "Fort Santiago, Itramuros, Manila",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/fort-santiago.jpg",
-    "priceCurrency": "km",
     "price": 319,
+    "priceCurrency": "km",
     "lat": 14.5943,
     "lng": 120.9706
   },
@@ -48,37 +48,37 @@
     "id": 211,
     "name": "National Museum of the Philippines, Manila",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/National-Museum-of-the-Philippines.jpg",
-    "priceCurrency": "km",
     "price": 319,
+    "priceCurrency": "km",
     "lat": 14.5869,
     "lng": 120.9812
   },
   {
     "id": 201,
-    "name": "Bascil Bridge",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Bascil%20Bridge.jpg",
-    "priceCurrency": "₱",
-    "price": 20,
-    "lat": 16.6183,
-    "lng": 120.3632
+    "name": "Puerto Princesa, Palawan",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Puerto-princesa.jpg",
+    "price": 1,128,
+    "priceCurrency": "km",
+    "lat": 10.1926,
+    "lng": 118.9266
   },
    {
     "id": 21,
-    "name": "Basilica Minore of Our Lady of Charity",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/BMLD.jpg",
-    "priceCurrency": "₱",
-    "price": 50,
-    "lat": 16.3247,
-    "lng": 120.3551
+    "name": "Chocolate Hills, Bohol",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/The%20Chocolate%20Hills.PNG",
+    "price": 1,246,
+    "priceCurrency": "km",
+    "lat": 9.8297,
+    "lng": 124.1397
   },
    {
     "id": 22,
     "name": "Baluarte Watch Tower",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/BWT.jpg",
-    "priceCurrency": "₱",
-    "price": 60,
-    "lat": 16.8568,
-    "lng": 120.3729
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Siargao.jpg",
+    "price": 1,430,
+    "priceCurrency": "km",
+    "lat": 9.8482,
+    "lng": 126.0458
   },
    {
     "id": 23,
