@@ -124,32 +124,5 @@
     "priceCurrency": "km",
     "lat": 10.2945,
     "lng": 123.9019
-  },
-   {
-    "id": 28,
-    "name": "Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/grape-farm-la-union.jpg",
-    "priceCurrency": "₱",
-    "price": 60,
-    "lat": 16.4611,
-    "lng": 120.3339
-  },
-   {
-    "id": 29,
-    "name": "Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/grape-farm-la-union.jpg",
-    "priceCurrency": "₱",
-    "price": 1949,
-    "lat": 6.9875,
-    "lng": 125.2710
-  },
-   {
-    "id": 30,
-    "name": "Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/grape-farm-la-union.jpg",
-    "priceCurrency": "₱",
-    "price": 60,
-    "lat": 16.4611,
-    "lng": 120.3339
   }
 ]
