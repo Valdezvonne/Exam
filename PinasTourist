@@ -1,13 +1,4 @@
 [
-   {
-    "id": 26,
-    "name": "Becques, Tagudin, Ilocos Sur (HOUSE)",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Capture.PNG",
-    "price": 0 ,
-    "priceCurrency": "km",
-    "lat": 16.989139,
-    "lng": 120.454389
-  },
   {
     "id": 145,
     "name": "Vigan City, Ilocos Sur",
@@ -115,5 +106,14 @@
     "priceCurrency": "km",
     "lat": 6.9875,
     "lng": 125.2710
+  },
+   {
+    "id": 31,
+    "name": "Becques, Tagudin, Ilocos Sur (HOUSE)",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Capture.PNG",
+    "price": 0 ,
+    "priceCurrency": "km",
+    "lat": 16.989139,
+    "lng": 120.454389
   }
 ]
