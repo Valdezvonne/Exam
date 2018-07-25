@@ -125,14 +125,32 @@
     "lat": 18.0616,
     "lng": 120.5215
   },
-     {
+  {
     "id": 28,
-    "name": Mount Pulag, Cordillera ",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/mtpulag2.jpg",
-    "price": 181,
+    "name": "El Nido",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/El-Nido.png",
+    "price": 899,
     "priceCurrency": "km",
-    "lat": 16.5975,
-    "lng": 120.8992
+    "lat": 11.197421,
+    "lng": 119.450560
+  },
+  {
+    "id": 29,
+    "name": "Bandilaan Natural Park",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/8597570806_b3fc69b488.jpg",
+    "price": 1261,
+    "priceCurrency": "km",
+    "lat": 9.1878357,
+    "lng": 123.5732544
+  },
+  {
+    "id": 30,
+    "name": "Salagdoong Beach",
+    "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Salagdoong_beach-768x576.jpg",
+    "price": 1275,
+    "priceCurrency": "km",
+    "lat": 9.2134243,
+    "lng": 123.6792323
   },
    {
     "id": 31,
