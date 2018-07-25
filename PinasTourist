@@ -125,15 +125,16 @@
     "lat": 18.0616,
     "lng": 120.5215
   },
-     {
+       {
     "id": 28,
-    "name": White Beach ",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/WhiteBeach.JPG",
-    "price": 469,
+    "name": Mount Pulag, Cordillera ",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/mtpulag2.jpg",
+    "price": 181,
     "priceCurrency": "km",
-    "lat": 15.2449053,
-    "lng": 119.6157944
+    "lat": 16.5975,
+    "lng": 120.8992
   },
+
    {
     "id": 31,
     "name": "Becques, Tagudin, Ilocos Sur (HOUSE)",
