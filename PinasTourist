@@ -129,7 +129,7 @@
     "id": 28,
     "name": "El Nido",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/El-Nido.png",
-    "price": 899,
+    "price": 943,
     "priceCurrency": "km",
     "lat": 11.197421,
     "lng": 119.450560
@@ -138,7 +138,7 @@
     "id": 29,
     "name": "Bandilaan Natural Park",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/8597570806_b3fc69b488.jpg",
-    "price": 1261,
+    "price": 1299,
     "priceCurrency": "km",
     "lat": 9.1878357,
     "lng": 123.5732544
@@ -147,7 +147,7 @@
     "id": 30,
     "name": "Salagdoong Beach",
     "imageUrl": "https://raw.githubusercontent.com/JColos23/finals/master/Salagdoong_beach-768x576.jpg",
-    "price": 1275,
+    "price": 1313,
     "priceCurrency": "km",
     "lat": 9.2134243,
     "lng": 123.6792323
