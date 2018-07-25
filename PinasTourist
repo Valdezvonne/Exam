@@ -1,4 +1,13 @@
 [
+    {
+    "id": 26,
+    "name": "Becques, Tagudin, Ilocos Sur (HOUSE)",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Capture.PNG",
+    "priceCurrency": "₱",
+    "price": 60 ,
+    "lat": 16.989139,
+    "lng": 120.454389
+  },
   {
     "id": 145,
     "name": "Vigan City, Ilocos Sur",
@@ -93,8 +102,8 @@
     "id": 24,
     "name": "Bahay na Bato",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/BahaynaBato_02.jpg",
-    "priceCurrency": "₱",
-    "price": 50,
+    "price": 24,
+    "priceCurrency": "km",
     "lat": 16.8472,
     "lng": 120.3517
   },
@@ -107,13 +116,15 @@
     "lat": 16.4611,
     "lng": 120.3339
   },
-  {
-    "id": 26,
-    "name": "Becques, Tagudin, Ilocos Sur (HOUSE)",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Capture.PNG",
-    "priceCurrency": "₱",
-    "price": 60 ,
-    "lat": 16.989139,
-    "lng": 120.454389
-  }
+   {
+    "id": 27,
+    "name": "Siargao Del Norter",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Siargao.jpg",
+    "price": 1430,
+    "priceCurrency": "km",
+    "lat": 9.8482,
+    "lng": 126.0458
+  },
+  
+  
 ]
