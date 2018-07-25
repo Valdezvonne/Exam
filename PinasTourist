@@ -10,7 +10,7 @@
   },
   {
     "id": 148,
-    "name": "Banaue Rice Terreces, Nueva Vizcaya - Ifugao - Mountain Province Rd",
+    "name": "Banaue Rice Terreces, Ifugao - Mountain Province Rd",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Banaue-Rice-Terraces.jpg",
     "price":162,
     "priceCurrency": "km",
@@ -28,30 +28,30 @@
   },
   {
     "id": 205,
-    "name": "Tuddingan Falls",
+    "name": "Fort Santiago, Itramuros, Manila",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/La-Union-Tuddingan-Falls3.jpg",
-    "priceCurrency": "₱",
-    "price": 50,
-    "lat": 16.5752,
-    "lng": 120.4174
+    "priceCurrency": "km",
+    "price": 319,
+    "lat": 14.5943,
+    "lng": 120.9706
   },
   {
     "id": 210,
-    "name": "San Juan Surfing Capital",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/SanJuan.jpg",
-    "priceCurrency": "₱",
-    "price": 30,
-    "lat": 16.6571,
-    "lng": 120.3202
+    "name": "Burnham Park, Baguio City",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonnehttps/Exam/master/burnham-park.jpg",
+    "priceCurrency": "km",
+    "price": 108,
+    "lat": 16.4093,
+    "lng": 120.5950
   },
   {
     "id": 211,
-    "name": "La Union Botanical and Zoological Garden",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/13445705827WoqnaRi.jpg",
-    "priceCurrency": "₱",
-    "price": 10,
-    "lat": 16.5873,
-    "lng": 120.3659
+    "name": "National Museum of the Philippines, Manila",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/National-Museum-of-the-Philippines.jpg",
+    "priceCurrency": "km",
+    "price": 319,
+    "lat": 14.5869,
+    "lng": 120.9812
   },
   {
     "id": 201,
