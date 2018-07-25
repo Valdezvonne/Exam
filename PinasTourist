@@ -3,7 +3,8 @@
     "id": 145,
     "name": "Vigan City, Ilocos Sur",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/vigan-ilocos-sur.JPG",
-    "price": 84km,
+    "price": 84,
+    "priceCurrency": "km",
     "lat": 17.5705,
     "lng": 120.3873
   },
@@ -11,7 +12,8 @@
     "id": 148,
     "name": "Banaue Rice Terreces, Nueva Vizcaya - Ifugao - Mountain Province Rd",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Banaue-Rice-Terraces.jpg",
-    "price":162km,
+    "price":162,
+    "priceCurrency": "km",
     "lat": 16.9240,
     "lng": 120.3175
   },
