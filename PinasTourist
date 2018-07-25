@@ -9,11 +9,10 @@
   },
   {
     "id": 148,
-    "name": "Ma Cho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/macho.JPG?",
-    "priceCurrency": "₱",
-    "price":10,
-    "lat": 16.6212,
+    "name": "Banaue Rice Terreces, Nueva Vizcaya - Ifugao - Mountain Province Rd",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Banaue-Rice-Terraces.jpg",
+    "price":162km,
+    "lat": 16.9240,
     "lng": 120.3175
   },
   {
@@ -23,7 +22,7 @@
     "priceCurrency": "₱",
     "price": 30,
     "lat": 16.5881,
-    "lng": 120.3146
+    "lng": 121.0556
   },
   {
     "id": 205,
