@@ -19,12 +19,12 @@
   },
   {
     "id": 201,
-    "name": "Pindangan Ruins",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/PR.jpg",
-    "priceCurrency": "₱",
-    "price": 30,
-    "lat": 16.5881,
-    "lng": 121.0556
+    "name": "Mayon Volcano, Albay",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Mayon-Volcano.jpg",
+    "price": 812,
+    "priceCurrency": "km",
+    "lat": 13.2548,
+    "lng": 123.6861
   },
   {
     "id": 205,
