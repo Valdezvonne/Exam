@@ -57,7 +57,7 @@
     "id": 201,
     "name": "Puerto Princesa, Palawan",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Puerto-princesa.jpg",
-    "price": 1,128,
+    "price": 1128,
     "priceCurrency": "km",
     "lat": 10.1926,
     "lng": 118.9266
@@ -66,7 +66,7 @@
     "id": 21,
     "name": "Chocolate Hills, Bohol",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/The%20Chocolate%20Hills.PNG",
-    "price": 1,246,
+    "price": 1246km,
     "priceCurrency": "km",
     "lat": 9.8297,
     "lng": 124.1397
@@ -75,7 +75,7 @@
     "id": 22,
     "name": "Siargao Del Norter",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Siargao.jpg",
-    "price": 1,430,
+    "price": 1430,
     "priceCurrency": "km",
     "lat": 9.8482,
     "lng": 126.0458
