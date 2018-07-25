@@ -107,6 +107,15 @@
     "lat": 6.9875,
     "lng": 125.2710
   },
+     {
+    "id": 26,
+    "name": "Mines View Park, Baguio",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/MinesView.jpg",
+    "price": 116,
+    "priceCurrency": "km",
+    "lat": 16.4196,
+    "lng": 120.6279
+  },
    {
     "id": 31,
     "name": "Becques, Tagudin, Ilocos Sur (HOUSE)",
