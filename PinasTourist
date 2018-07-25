@@ -115,14 +115,5 @@
     "priceCurrency": "km",
     "lat": 10.2936,
     "lng": 123.9019
-  },
-   {
-    "id": 27,
-    "name": "Basilica del Santo Niño",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/basilica-minore-del-santo-nino.jpg",
-    "price": 1176,
-    "priceCurrency": "km",
-    "lat": 10.2945,
-    "lng": 123.9019
   }
 ]
