@@ -116,6 +116,15 @@
     "lat": 16.4196,
     "lng": 120.6279
   },
+      {
+    "id": 27,
+    "name": "Paoay Church, Ilocos Norte",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Paoay.jpg",
+    "price": 146,
+    "priceCurrency": "km",
+    "lat": 18.0616,
+    "lng": 120.5215
+  },
    {
     "id": 31,
     "name": "Becques, Tagudin, Ilocos Sur (HOUSE)",
