@@ -82,7 +82,7 @@
   },
    {
     "id": 22,
-    "name": "Siargao Del Norter",
+    "name": "Siargao Del Norte",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Siargao.jpg",
     "price": 1430,
     "priceCurrency": "km",
@@ -92,7 +92,7 @@
    {
     "id": 23,
     "name": "Hundred Island, Pangasinan",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonneh/Exam/master/Hundred-Island.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Hundred-Island.jpg",
     "price": 181,
     "priceCurrency": "km",
     "lat": 16.2040,
@@ -109,21 +109,21 @@
   },
    {
     "id": 25,
-    "name": "Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/grape-farm-la-union.jpg",
-    "priceCurrency": "₱",
-    "price": 60,
-    "lat": 16.4611,
-    "lng": 120.3339
+    "name": Magellan's Cross, Cebu City",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Magellan.jpg",
+    "price": 1175,
+    "priceCurrency": "km",
+    "lat": 10.2936,
+    "lng": 123.9019
   },
    {
     "id": 27,
-    "name": "Siargao Del Norter",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Siargao.jpg",
-    "price": 1430,
+    "name": "Basilica del Santo Niño",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/basilica-minore-del-santo-nino.jpg",
+    "price": 1176,
     "priceCurrency": "km",
-    "lat": 9.8482,
-    "lng": 126.0458
+    "lat": 10.2945,
+    "lng": 123.9019
   },
    {
     "id": 28,
@@ -139,9 +139,9 @@
     "name": "Grapes Farm",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/grape-farm-la-union.jpg",
     "priceCurrency": "₱",
-    "price": 60,
-    "lat": 16.4611,
-    "lng": 120.3339
+    "price": 1949,
+    "lat": 6.9875,
+    "lng": 125.2710
   },
    {
     "id": 30,
