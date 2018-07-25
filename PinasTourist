@@ -3,8 +3,7 @@
     "id": 145,
     "name": "Vigan City, Ilocos Sur",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/vigan-ilocos-sur.JPG",
-    "price": 84,
-    "priceCurrency": "km",
+    "price": 84km,
     "lat": 17.5705,
     "lng": 120.3873
   },
