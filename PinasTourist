@@ -91,12 +91,12 @@
   },
    {
     "id": 23,
-    "name": "Poro Point Lighthouse",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Poro.jpg",
-    "priceCurrency": "₱",
-    "price": 50,
-    "lat": 16.6149,
-    "lng": 120.2808
+    "name": "Hundred Island, Pangasinan",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonneh/Exam/master/Hundred-Island.jpg",
+    "price": 181,
+    "priceCurrency": "km",
+    "lat": 16.2040,
+    "lng": 120.0409
   },
    {
     "id": 24,
@@ -124,7 +124,32 @@
     "priceCurrency": "km",
     "lat": 9.8482,
     "lng": 126.0458
+  },
+   {
+    "id": 28,
+    "name": "Grapes Farm",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/grape-farm-la-union.jpg",
+    "priceCurrency": "₱",
+    "price": 60,
+    "lat": 16.4611,
+    "lng": 120.3339
+  },
+   {
+    "id": 29,
+    "name": "Grapes Farm",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/grape-farm-la-union.jpg",
+    "priceCurrency": "₱",
+    "price": 60,
+    "lat": 16.4611,
+    "lng": 120.3339
+  },
+   {
+    "id": 30,
+    "name": "Grapes Farm",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/grape-farm-la-union.jpg",
+    "priceCurrency": "₱",
+    "price": 60,
+    "lat": 16.4611,
+    "lng": 120.3339
   }
-  
-  
 ]
