@@ -107,14 +107,13 @@
     "lat": 16.8472,
     "lng": 120.3517
   },
-  
-   {
+  {
     "id": 25,
-    "name": Magellan's Cross, Cebu City",
-    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Magellan.jpg",
-    "price": 1175,
+    "name": "Mt. Apo, Mindanao",
+    "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/Exam/master/Mt.apo.jpg",
+    "price": 1949,
     "priceCurrency": "km",
-    "lat": 10.2936,
-    "lng": 123.9019
+    "lat": 6.9875,
+    "lng": 125.2710
   }
 ]
