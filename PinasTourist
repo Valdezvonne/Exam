@@ -3,8 +3,8 @@
     "id": 26,
     "name": "Becques, Tagudin, Ilocos Sur (HOUSE)",
     "imageUrl": "https://raw.githubusercontent.com/Valdezvonne/tourist/master/images/Capture.PNG",
-    "priceCurrency": "₱",
-    "price": 60 ,
+    "price": 0 ,
+    "priceCurrency": "km",
     "lat": 16.989139,
     "lng": 120.454389
   },
